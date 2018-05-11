@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Font/Font.spritefont</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Controls/gameButton.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Entities/grunt1.gif</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Entities/final_boss.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Entities/mid_boss.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/GruntLv1Bullet.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/BossBullets.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Entities/playerGoku.gif</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/PlayerBullets.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/Goku_UI.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/GameBackground.jpg</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/LV1.jpg</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Font/TitleFont.spritefont</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/LastLevel.jpg</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/Level1.jpg</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/Level2.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/Level3.jpg</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/GruntLv1Bulletfixed.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/bulletFixed.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Entities/reect.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Entities/rectt.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/controls_layout.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/health.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/GameOver.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Music/MenuMusic.mp3</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Music/FinalBoss.mp3</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Music/LevelMusic.mp3</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/SoundEffects/playerShoot.mp3</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/SoundEffects/ButtonClick.mp3</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/SoundEffects/ButtonHover.mp3</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/IngameMenu.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Music/LaserGun.wav</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Entities/fly-left.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Entities/fly-right.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Entities/fly-right-left.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Music/burning_attack.wav</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Music/instant_transmission.wav</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Music/kiblast.wav</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/blast-up.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/blast2-down.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Font/FinalScore.spritefont</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/BossBullet.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/bomb.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Background/tp.png</File>
+    <File>C:/Users/Ash/Documents/CPTS487/RepTeamCodeBros/BHSTG/BHSTG/Content/Bullets/boom.png</File>
+  </SourceFiles>
+</SourceFileCollection>
